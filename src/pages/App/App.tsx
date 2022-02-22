@@ -16,7 +16,7 @@ const App: React.FC = () => {
       <Content>
         <Dashboard />
       </Content>
-      <Footer>Cliniserve ©{new Date().getFullYear()}</Footer>
+      <Footer>Khaled Saidi ©{new Date().getFullYear()}</Footer>
     </div>
   );
 };
