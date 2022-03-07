@@ -8,7 +8,7 @@ const App: React.FC = () => {
   return (
     <div style={{ textAlign: "center" }}>
       <Header>
-        <h2 style={{ fontFamily: "'Comfortaa', cursive" }}>
+        <h2 className="text-3xl font-bold mb-4" style={{ fontFamily: "'Comfortaa', cursive" }}>
           Covid-19 Local Updates - München
         </h2>
         <h4 style={{ color: '#52525b' }}>Data for the last {LAST_X_DAYS} days</h4>
