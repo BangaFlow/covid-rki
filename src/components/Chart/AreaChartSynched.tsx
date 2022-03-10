@@ -30,7 +30,7 @@ const AreaChartSynched: React.FC<ChartProps> = ({
   color,
 }) => {
   return (
-    <div data-testid="chart-element" style={{ width: "100%", height: 275, marginBottom: 20, fontSize: 14 }}>
+    <div data-testid="chart-element" className="text-sm w-full h-[275px] mb-5">
       <ResponsiveContainer>
         <AreaChart
           syncId="synched"
