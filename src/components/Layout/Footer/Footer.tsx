@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer: React.FC = ({ children }) => {
   return (
-    <footer style={{ fontFamily: "'Comfortaa', cursive", fontWeight: 400, padding: '10px 20px' }}>
+    <footer className="py-5 mt-auto font-['Comfortaa',_cursive] font-normal">
       {children}
     </footer>
   );

@@ -2,18 +2,7 @@ import React from "react";
 
 const Content: React.FC = ({ children }) => {
   return (
-    <main
-      style={{
-        minHeight: "82vh",
-        maxWidth: "80%",
-        padding: "0px 40px",
-        margin: "0 auto",
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        flexDirection: 'column'
-      }}
-    >
+    <main className="flex flex-col items-center justify-center mx-auto min-h-[83.33vh] w-11/12 lg:w-10/12">
       {children}
     </main>
   );

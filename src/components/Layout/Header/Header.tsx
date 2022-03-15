@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header: React.FC = ({ children }) => {
-  return <header style={{padding: '10px 20px', marginTop: '20px'}}>{children}</header>;
+  return <header className="pt-10 mb-2.5">{children}</header>;
 };
 
 export default Header;
