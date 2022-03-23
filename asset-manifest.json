@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/covid-rki/static/css/main.3662fc0d.css",
-    "main.js": "/covid-rki/static/js/main.3f6ac1f8.js",
+    "main.css": "/covid-rki/static/css/main.21585b04.css",
+    "main.js": "/covid-rki/static/js/main.11e8b7e7.js",
     "index.html": "/covid-rki/index.html",
-    "main.3662fc0d.css.map": "/covid-rki/static/css/main.3662fc0d.css.map",
-    "main.3f6ac1f8.js.map": "/covid-rki/static/js/main.3f6ac1f8.js.map"
+    "main.21585b04.css.map": "/covid-rki/static/css/main.21585b04.css.map",
+    "main.11e8b7e7.js.map": "/covid-rki/static/js/main.11e8b7e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3662fc0d.css",
-    "static/js/main.3f6ac1f8.js"
+    "static/css/main.21585b04.css",
+    "static/js/main.11e8b7e7.js"
   ]
 }
